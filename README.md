@@ -1,6 +1,4 @@
 # Translation-RNN
-Language Translation - RNN
+Language Translation - RNN with GRU and Attention
 
 French to english
-
-## Not completed
